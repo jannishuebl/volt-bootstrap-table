@@ -1,3 +1,6 @@
+# This is a Volt clone of bootstrap-table-rails:
+
+
 # bootstrap-table-rails [![Gem Version](https://badge.fury.io/rb/bootstrap-table-rails.png)](http://badge.fury.io/rb/bootstrap-table-rails)
 
 bootstrap-table-rails provides the [bootstrap-table](https://github.com/wenzhixin/bootstrap-table/)
